@@ -5,7 +5,7 @@ author: "Abdullah Ariff"
 categories: career
 ---
 
-Before I apply for a job, I like to know what I'm supposed to accomplish before I consider joining the project. My first question to the hiring team is often "what do you expect me to accomplish in three to six months?" If I like their answer, I might accept an offer. Otherwise I keep looking. Three to six months of my time is a precious investment, and I want to be sure that when I look back, that time was well spent. 
+Before I apply for a position, I like to know what I'm supposed to accomplish before I consider joining the project. My first question to the hiring team is often "what do you expect me to accomplish in three to six months?" If I like their answer, I might accept an offer. Otherwise I keep looking. Three to six months of my time is a precious investment, and I want to be sure that when I look back, that time was well spent. 
 
 On the other side of the table, when I'm hiring for my team, I've found the best predictor of a candidate's future success is their past success. How did they spend their last six months? What did they accomplish in the past six years? Where is their trajectory headed? As John Ousterhout says: [Hire for Slope](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185). The quicker they reached the clouds, the sooner they'll reach the stratosphere.
 
