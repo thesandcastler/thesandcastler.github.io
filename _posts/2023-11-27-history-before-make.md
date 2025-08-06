@@ -22,5 +22,3 @@ Figure out what you want to accomplish, then put your head down until you accomp
 Where you place your foot next will dictate the steps you take afterwards. When you look back at your footsteps, will you be happy with the path you took?
 
 Pay attention to the legacy you want to create, and then go forth and create it.
-
-Write your history, then go make it. 
