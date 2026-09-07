@@ -1,3 +1,4 @@
+---
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -41,5 +42,5 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 12
 paginate_path: "/page/:num/"
